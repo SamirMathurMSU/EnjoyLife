@@ -1,2 +1,3 @@
 developer
 made 1 change
+second change in master branch
