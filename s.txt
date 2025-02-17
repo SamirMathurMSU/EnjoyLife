@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 HELLO S
 local change
+=======
+HELLO S
+remote change
+>>>>>>> 79502d7e903ad73d300fecfdab34f183125698b4
